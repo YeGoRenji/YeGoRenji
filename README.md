@@ -1,8 +1,9 @@
 <h3 align="center">Hey, Welcome to my Github profile 😆🎉</h3>
 <p align="center">My name is Youssef, 23 years old, Moroccan. Game dev/Low level enthusiast.</p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/566324864630259762/828542142686298132/test.gif" alt="animated" />
+  <img src="https://raw.githubusercontent.com/YeGoRenji/YeGoRenji/main/OrangeCarpet.gif" alt="animated" />
 </p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
