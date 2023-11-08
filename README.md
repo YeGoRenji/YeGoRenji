@@ -1,5 +1,6 @@
 <h3 align="center">Hey, Welcome to my Github profile 😆🎉</h3>
 <p align="center">My name is Youssef, 23 years old, Moroccan. Game dev/Low level enthusiast.</p>
+<p align="center">🧑‍🎓 Currently Student of <a href="https://ensak.usms.ac.ma/ensak/">ENSA Khouribga</a> and <a href="https://1337.ma/en/">1337 Coding School</a></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/YeGoRenji/YeGoRenji/main/OrangeCarpet.gif" alt="animated" />
 </p>
