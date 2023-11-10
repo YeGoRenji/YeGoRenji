@@ -1,10 +1,12 @@
 <h3 align="center">Hey, Welcome to my Github profile 😆🎉</h3>
-<p align="center">My name is Youssef, 23 years old, Moroccan. Game dev/Low level enthusiast.</p>
+<p align="center">My name is Youssef, 23 years old, Moroccan. <br/> Game dev/Low level enthusiast.</p>
 <p align="center">🧑‍🎓 Currently Student of <a href="https://ensak.usms.ac.ma/ensak/">ENSA Khouribga</a> and <a href="https://1337.ma/en/">1337 Coding School</a></p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YeGoRenji/YeGoRenji/main/OrangeCarpet.gif" alt="animated" />
-</p>
-
+<table align='center' style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/YeGoRenji/YeGoRenji/main/OrangeCarpet.gif" alt="animated" /></td>
+    <td><img src="https://badge.mediaplus.ma/black/ylyoussf" alt="ylyoussf's 42 stats" /></td>
+  </tr>
+</table>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
