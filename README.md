@@ -4,7 +4,7 @@
 <table align='center' style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td><img src="https://raw.githubusercontent.com/YeGoRenji/YeGoRenji/main/OrangeCarpet.gif" alt="animated" /></td>
-    <td><img src="https://badge.mediaplus.ma/black/ylyoussf" alt="ylyoussf's 42 stats" /></td>
+    <!-- <td><img src="https://badge.mediaplus.ma/black/ylyoussf" alt="ylyoussf's 42 stats" /></td> -->
   </tr>
 </table>
 <h3 align="center">Languages and Tools:</h3>
