@@ -1,6 +1,7 @@
-<h1 align="center">Hey, Welcome to my Github profile 😆🎉</h1>
+<h1 align="center">Hey, Welcome to my Profile 😆 🎉 <br/><br/></h1>
 
-<p align="center">My name is Youssef, Moroccan. <br/> Graphics/Low level enthusiast.</p>
+<h2 align="center">My name is Youssef, Moroccan 🇲🇦<br/> Software Engineer <br/> Graphics/Low level enthusiast. <br/><br/></h2>
+
 <p align="center">🧑‍🎓 Currently Student at <a href="http://ensak.usms.ac.ma/ensak/">ENSA Khouribga</a> and <a href="https://1337.ma/en/">1337 Coding School</a></p>
 <table align='center' style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
