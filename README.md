@@ -3,11 +3,9 @@
 <h2 align="center">My name is Youssef, Moroccan 🇲🇦<br/> Software Engineer <br/> Graphics/Low level enthusiast. <br/><br/></h2>
 
 <p align="center">🧑‍🎓 Currently Student at <a href="http://ensak.usms.ac.ma/ensak/">ENSA Khouribga</a> and <a href="https://1337.ma/en/">1337 Coding School</a></p>
-<table align='center' style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/YeGoRenji/YeGoRenji/main/OrangeCarpet.gif" alt="animated" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YeGoRenji/YeGoRenji/main/OrangeCarpet.gif" alt="animated orange carpet" height="auto" width="512" style="border-radius: 20px" />
+</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
