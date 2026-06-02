@@ -1,6 +1,6 @@
 <h1 align="center">Hey, Welcome to my Profile 😆 🎉 <br/><br/></h1>
 
-<h2 align="center">My name is Youssef, Moroccan 🇲🇦<br/> Software Engineer <br/> Graphics/Low level enthusiast. <br/><br/></h2>
+<h2 align="center">My name is Youssef, Moroccan 🇲🇦<br/> Software Engineer / Game Developer <br/> Graphics/Low level enthusiast. <br/><br/></h2>
 
 <p align="center">🎓 Graduate from <a href="http://ensak.usms.ac.ma/ensak/">ENSA Khouribga</a></p>
 <p align="center">🧑‍🎓 Currently Student at <a href="https://1337.ma/en/">1337 Coding School</a></p>
